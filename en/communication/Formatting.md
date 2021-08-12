@@ -19,3 +19,4 @@ Text sent by the server needs to follow this format:
 (2:58)[102.9][snitches][home] +mintphin
 (3:01)[102.9][snitches][home] -mintphin
 ```
+
