@@ -1,5 +1,5 @@
 # Industria
-La produccion de recursos en mayor escala en Minecraft tiene varios cuellos de botella, y puede ser algo complejo escalarlo. Debería ser divertido para jugadores producir altas cantidades de recursos, para así facilitar el intercambio y el inventario.
+La produccion de recursos en mayor escala en Minecraft tiene varios cuellos de botella, y puede ser algo complejo escalarla. Debería ser divertido para jugadores producir altas cantidades de recursos, para así facilitar el intercambio y el inventario.
 
 ## Fábricas
 Las fábricas son series de estructuras de multiples bloques que se conectan entre si para crear un producto. Sin embargo, una fabrica es un constructo, ya que nada *necesita* ser automatizado. Si un jugador quiere crear productos en una escala mayor y eficientemente, tendrá que colectivizar su industria.
