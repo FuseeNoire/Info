@@ -1,6 +1,6 @@
 # Economics
 The economy of a standard Minecraft server is very lacking. Being a single-player focused game, a player does not need to collaborate to sustain themselves and accumulate wealth. Combined with the lack of scalable production, the standard Minecraft experience is often solitary.
-# Approach
+## Approach
 When planning to have nations make functional economies, it is important to take into account both the perspective of the nation **and** the player.
 
 A player **has to**;
